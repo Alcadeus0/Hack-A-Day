@@ -165,16 +165,16 @@ textarea{
 
 .flashcard{
   width: 370px;
-  height: 200px;
+  height: 300px;
   word-wrap: break-word;
   margin: 10px; 
-  background:#fff;
+  background: linear-gradient(hsl(186, 100%, 50%), rgb(255, 123, 123));
   cursor: pointer;
   box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.9);
   position: relative;
 }
 
-.flashcard h2{font-size: 1rem;}
+.flashcard h2{font-size: 1.5rem;}
 
 .fa-minus{
   top: 3%;
